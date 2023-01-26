@@ -8,7 +8,7 @@
 
 ## Project :
 
-`Know the C, Create a banking management system, Learn C++ and CSharp afterwards`
+`Know the C, Create a banking management system, Learn C++ and CSharp afterwards and joined epitech`
 
 ## Programming languages :
 <p>
