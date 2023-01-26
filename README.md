@@ -3,7 +3,7 @@
 ## About me:
 
 
-`I like coding I will share with `<br>` you my progress in different languages`
+`I like development & money I will share my `<br>` creations with you enjoy`
 ---
 
 
@@ -24,3 +24,7 @@
 <img src="https://cdn.discordapp.com/attachments/1037532268857667685/1067939025995976805/windows-logo-logok-0.png" height=60px width=50px> | 
 <img src="https://cdn.discordapp.com/attachments/1037532268857667685/1067939219823153162/58480e82cef1014c0b5e4927.png" height=60px width=55px> | 
 </p>
+
+## Project :
+
+`know the C, Create a banking management system, Learn C++ and CSharp afterwards`
